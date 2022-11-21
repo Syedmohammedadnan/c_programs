@@ -1,3 +1,4 @@
+/*program to check if the controllor is a little indian or big endian*/
 #include <stdio.h>
 #include <stdint.h>
 
