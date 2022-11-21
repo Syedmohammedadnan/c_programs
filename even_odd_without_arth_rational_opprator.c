@@ -1,3 +1,4 @@
+/*check the number is even or odd without arthemetic and logical operator*/
 #include <stdio.h>
 
 int main() {
