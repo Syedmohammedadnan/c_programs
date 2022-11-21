@@ -1,3 +1,4 @@
+/*swap nibbbles of a 8 bit number*/
 #include <stdio.h>
 #include <stdint.h>
 
