@@ -1,4 +1,4 @@
-
+/*check 2 numbers if they are equal or not with out using rational operators*/
 #include <stdio.h>
 #include <stdint.h>
 
