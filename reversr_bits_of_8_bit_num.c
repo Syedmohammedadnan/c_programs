@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+/*reverse the bits of a 8 bit number*/
 #include <stdio.h>
 #include <stdint.h>
 #include <string.h>
