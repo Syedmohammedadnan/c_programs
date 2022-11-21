@@ -1,3 +1,4 @@
+/*divide and multiply by 4 without using arthemetic and logical operators*/
 #include <stdio.h>
 #include <stdint.h>
 
